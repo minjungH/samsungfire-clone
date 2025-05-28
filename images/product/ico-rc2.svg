@@ -1,0 +1,19 @@
+<svg id="_1-icon-2-illustration-5-my-insurance-insurance-02_1_" data-name="1-icon-2-illustration-5-my-insurance-insurance-02 (1)" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <path id="패스_1192" data-name="패스 1192" d="M17.142,0h5.715A17.143,17.143,0,0,1,40,17.142v5.715A17.143,17.143,0,0,1,22.858,40H17.142A17.143,17.143,0,0,1,0,22.858V17.142A17.143,17.143,0,0,1,17.142,0Z" fill="#f2f2f5" fill-rule="evenodd"/>
+  <g id="Icon" transform="translate(28 1)">
+    <g id="Group-2" transform="translate(-11.769 24.652)">
+      <ellipse id="타원_170" data-name="타원 170" cx="2" cy="1" rx="2" ry="1" transform="translate(1.77 3.348)" fill="#5a5b63"/>
+      <path id="Mask" d="M0,0H7.177V3.454a1.57,1.57,0,0,1-1.57,1.57H1.57A1.57,1.57,0,0,1,0,3.454V0Z" transform="translate(0.179)" fill="#868a93"/>
+      <g id="Rectangle" transform="translate(0 1.884)">
+        <g id="그룹_3825" data-name="그룹 3825">
+          <rect id="사각형_1843" data-name="사각형 1843" width="7.536" height="0.785" fill="#5a5b63"/>
+          <rect id="사각형_1844" data-name="사각형 1844" width="7.536" height="0.785" transform="translate(0 1.256)" fill="#5a5b63"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group" transform="translate(-16.165 8.324)">
+      <path id="Rectangle-2" data-name="Rectangle" d="M3.2,16.6H14.5l-2.064,3.768H5.264Z" transform="translate(-0.688 -3.568)" fill="#ffc835" fill-rule="evenodd"/>
+      <ellipse id="Oval" cx="8.164" cy="8.348" rx="8.164" ry="8.348" transform="translate(0 0)" fill="#ffc835"/>
+    </g>
+  </g>
+</svg>

@@ -23,10 +23,6 @@
 .login-wrap-mb {
  display: none;
 }
-/* 자주찾는 메뉴 모바일 */
-.shortcut-wrap-mb {
- display: none;
-}
 /* 자동차 고장출동, 사고접수 모바일 */
 .car-wrap-mb {
  display: none;
@@ -425,36 +421,6 @@
   font-size: 1.6rem;
   line-height: 2.8rem;
  }
- /* 자주찾는 메뉴 모바일 */
- .shortcut-wrap-mb {
-  position: relative;
-  display: block;
-  margin-top: 2rem;
- }
- .shortcut-wrap-mb ul {
-  position: relative;
-  display: flex;
-  justify-content: space-between;
- }
- .shortcut-wrap-mb ul li {
-  position: relative;
- }
- .shortcut-wrap-mb ul li a {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.8rem;
- }
- .shortcut-wrap-mb ul li a img {
-  width: 52px;
-  height: 52px;
-  object-fit: contain;
- }
- .shortcut-wrap-mb ul li a span {
-  font-size: 1.4rem;
-  line-height: 1.6rem;
-  text-align: center;
- }
  .car-wrap-mb {
   position: relative;
   display: block;
@@ -587,5 +553,21 @@
  }
  .customer {
   display: none;
+ }
+}
+
+@media screen and (max-width: 767px) {
+ .product-wrap .product-right .card {
+  height: 218px;
+ }
+}
+@media screen and (max-width: 585px) {
+ .product-wrap .product-right {
+  height: 100%;
+ }
+ .product-wrap .product-right .card {
+  flex-basis: 100%;
+  height: 100%;
+  max-height: 208px;
  }
 }
